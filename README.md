@@ -192,8 +192,8 @@ no server, no account, and it works offline once loaded.
 
 ### Using the app, step by step
 
-**App link:** https://victor-vit-projects.github.io/FallGuard/app/
-**Try it without hardware:** https://victor-vit-projects.github.io/FallGuard/app/?demo (simulated device that "falls" every 20 s)
+**App link:** https://prayagkrishna.github.io/FallGuard/app/
+**Try it without hardware:** https://prayagkrishna.github.io/FallGuard/app/?demo (simulated device that "falls" every 20 s)
 
 **One-time setup (Android phone)**
 1. Turn on **Bluetooth** and **Location** (Android needs Location on for any Bluetooth scan).

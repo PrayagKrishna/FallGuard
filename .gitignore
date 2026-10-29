@@ -3,3 +3,5 @@ test/fdtest
 test/fdtest.exe
 __pycache__/
 *.csv
+*.apk
+*.keystore
